@@ -13,3 +13,9 @@
 [submodule "3rd/argparse"]
 	path = 3rd/argparse
 	url = https://github.com/mpeterv/argparse.git
+[submodule "3rd/pbc"]
+	path = 3rd/pbc
+	url = https://github.com/cloudwu/pbc.git
+[submodule "3rd/lfs"]
+	path = 3rd/lfs
+	url = https://github.com/keplerproject/luafilesystem.git
