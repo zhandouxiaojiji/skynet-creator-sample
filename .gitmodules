@@ -6,4 +6,7 @@
 	url = https://github.com/cloudwu/lua-cjson.git
 [submodule "3rd/lua-openssl"]
 	path = 3rd/lua-openssl
-	url = git@github.com:zhongfq/lua-openssl.git
+	url = https://github.com:zhongfq/lua-openssl.git
+[submodule "3rd/uuid"]
+	path = 3rd/uuid
+	url = https://github.com/Tieske/uuid.git
