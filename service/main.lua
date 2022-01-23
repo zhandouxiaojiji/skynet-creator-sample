@@ -1,7 +1,9 @@
 local skynet = require "skynet"
 local cjson = require "cjson.safe"
+local openssl = require "openssl"
 
 skynet.start(function ()
     print "hello skynet!"
-    print(cjson.encode {aa = 1})
+    print("test cjson", cjson.encode {aa = 1})
+    print("test openssl", openssl.base64("hello"))
 end)
