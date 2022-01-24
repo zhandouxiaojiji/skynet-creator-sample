@@ -19,3 +19,9 @@
 [submodule "3rd/lfs"]
 	path = 3rd/lfs
 	url = https://github.com/keplerproject/luafilesystem.git
+[submodule "3rd/crab"]
+	path = 3rd/crab
+	url = https://github.com/xjdrew/crab.git
+[submodule "3rd/lua-lz4"]
+	path = 3rd/lua-lz4
+	url = https://github.com/witchu/lua-lz4.git
