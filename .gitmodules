@@ -25,3 +25,6 @@
 [submodule "3rd/lua-lz4"]
 	path = 3rd/lua-lz4
 	url = https://github.com/witchu/lua-lz4.git
+[submodule "3rd/jps"]
+	path = 3rd/jps
+	url = https://github.com/rangercyh/jps.git
