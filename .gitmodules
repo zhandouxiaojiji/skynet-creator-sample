@@ -28,3 +28,6 @@
 [submodule "3rd/jps"]
 	path = 3rd/jps
 	url = https://github.com/rangercyh/jps.git
+[submodule "3rd/luaprofile"]
+	path = 3rd/luaprofile
+	url = https://github.com/lvzixun/luaprofile.git
