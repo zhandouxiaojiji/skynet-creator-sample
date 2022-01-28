@@ -13,3 +13,6 @@
 [submodule "3rd/jps"]
 	path = 3rd/jps
 	url = https://github.com/rangercyh/jps.git
+[submodule "3rd/snapshot"]
+	path = 3rd/snapshot
+	url = https://github.com/lvzixun/lua-snapshot.git

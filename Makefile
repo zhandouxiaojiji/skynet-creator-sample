@@ -1,5 +1,5 @@
 .PHONY: all clean
-all: build
+all: build skynet
 
 TOP=.
 BUILD_DIR=./build
