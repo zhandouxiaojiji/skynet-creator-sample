@@ -1,18 +1,6 @@
 [submodule "skynet"]
 	path = skynet
 	url = https://github.com/cloudwu/skynet.git
-[submodule "3rd/lua-cjson"]
-	path = 3rd/lua-cjson
-	url = https://github.com/cloudwu/lua-cjson.git
-[submodule "3rd/lua-openssl"]
-	path = 3rd/lua-openssl
-	url = https://github.com:zhongfq/lua-openssl.git
-[submodule "3rd/uuid"]
-	path = 3rd/uuid
-	url = https://github.com/Tieske/uuid.git
-[submodule "3rd/argparse"]
-	path = 3rd/argparse
-	url = https://github.com/mpeterv/argparse.git
 [submodule "3rd/pbc"]
 	path = 3rd/pbc
 	url = https://github.com/cloudwu/pbc.git
@@ -22,12 +10,6 @@
 [submodule "3rd/crab"]
 	path = 3rd/crab
 	url = https://github.com/xjdrew/crab.git
-[submodule "3rd/lua-lz4"]
-	path = 3rd/lua-lz4
-	url = https://github.com/witchu/lua-lz4.git
 [submodule "3rd/jps"]
 	path = 3rd/jps
 	url = https://github.com/rangercyh/jps.git
-[submodule "3rd/luaprofile"]
-	path = 3rd/luaprofile
-	url = https://github.com/lvzixun/luaprofile.git
