@@ -5,6 +5,8 @@ TOP=.
 BUILD_DIR=./build
 BIN_DIR=./build/bin
 LOG_DIR=./logs
+LUALIB_DIR=./lualib
+SERVICE_DIR=./service
 
 INCLUDE_DIR=$(BUILD_DIR)/include
 BUILD_CLUALIB_DIR=$(BUILD_DIR)/clualib
