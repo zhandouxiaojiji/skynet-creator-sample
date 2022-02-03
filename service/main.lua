@@ -18,8 +18,8 @@ skynet.start(function ()
 
     for file in lfs.dir("./examples") do
         if string.match(file, ".+%.lua$") then
-            print("=========== "..file.." ===============")
-            dofile("./examples/"..file)()
+            print("=============================== "..file.." ===============================")
+            dofile("./examples/"..file)
         end
     end
     -- print("test openssl", openssl.base64("hello"))
