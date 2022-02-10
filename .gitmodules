@@ -19,3 +19,6 @@
 [submodule "3rd/cjson"]
 	path = 3rd/cjson
 	url = https://github.com/cloudwu/lua-cjson.git
+[submodule "3rd/ecs"]
+	path = 3rd/ecs
+	url = https://github.com/cloudwu/luaecs.git
