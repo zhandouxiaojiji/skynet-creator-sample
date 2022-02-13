@@ -22,3 +22,6 @@
 [submodule "3rd/ecs"]
 	path = 3rd/ecs
 	url = https://github.com/cloudwu/luaecs.git
+[submodule "3rd/curl"]
+	path = 3rd/curl
+	url = https://github.com/Lua-cURL/Lua-cURLv3.git
