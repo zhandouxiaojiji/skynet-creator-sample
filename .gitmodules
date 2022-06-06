@@ -25,3 +25,6 @@
 [submodule "3rd/curl"]
 	path = 3rd/curl
 	url = https://github.com/Lua-cURL/Lua-cURLv3.git
+[submodule "3rd/navigation"]
+	path = 3rd/navigation
+	url = https://github.com/zhandouxiaojiji/lua-navigation.git
