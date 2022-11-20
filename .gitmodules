@@ -28,3 +28,6 @@
 [submodule "3rd/navigation"]
 	path = 3rd/navigation
 	url = https://github.com/zhandouxiaojiji/lua-navigation.git
+[submodule "3rd/crypto"]
+	path = 3rd/crypto
+	url = https://github.com/zhandouxiaojiji/lua-crypto.git
