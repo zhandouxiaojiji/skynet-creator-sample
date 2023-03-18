@@ -15,13 +15,14 @@ end
 
 skynet.start(function ()
     print "hello skynet!"
+    dofile("./examples/test_openai.lua")
 
-    for file in lfs.dir("./examples") do
-        if string.match(file, ".+%.lua$") then
-            print("=============================== "..file.." ===============================")
-            dofile("./examples/"..file)
-        end
-    end
+    -- for file in lfs.dir("./examples") do
+    --     if string.match(file, ".+%.lua$") then
+    --         print("=============================== "..file.." ===============================")
+    --         dofile("./examples/"..file)
+    --     end
+    -- end
     -- print("test openssl", openssl.base64("hello"))
 
     -- test_lz4()
